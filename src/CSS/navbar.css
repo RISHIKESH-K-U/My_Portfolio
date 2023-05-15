@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 30px;
+    background: transparent;
+    padding-top :10px;
+}
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+  }
+  

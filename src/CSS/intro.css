@@ -1,0 +1,40 @@
+.introduction {
+    background-image: url("../Images/Bg1.jpg") ;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.introductionc {
+    
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    width: 1000px;
+    color: white;
+    /* background-color: black; */
+    margin-left: 30px;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.MyImg {
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 100px;
+     border-radius: 50%; 
+    /*background-color: yellow; */
+}
+
+.Pikachu{
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 200px;
+    height: 200px;
+    width: 200px;
+    /* background-color: red; */
+}
