@@ -1,0 +1,38 @@
+.skills h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+.skills img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.skills {
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    
+}
+
+.skill1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+}
+
+
+.skill2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 380px;
+    margin-top: 100px;
+}
+
+.C,.Cpp,.Python,.HTML,.CSS,.node,.Java,.JS,.React {
+    margin-left: 20px;
+    text-align: center;
+}

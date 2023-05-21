@@ -1,0 +1,26 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    background-color: #071123;
+    padding-top: 100px;
+}
+
+.github img{
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.linkedin img,.instagram img{
+    height: 50px;
+    width: 50px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.instagram {
+    margin-left: 600px;
+}

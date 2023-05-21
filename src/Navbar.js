@@ -4,8 +4,8 @@ import "./CSS/navbar.css";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <Link>ABOUT ME</Link>
-      <Link>MY GITHUB PROFILE</Link>
+      {/* <Link>ABOUT ME</Link> */}
+      <Link to="https://github.com/RISHIKESH-K-U">MY GITHUB PROFILE</Link>
     </div>
   );
 };

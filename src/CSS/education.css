@@ -1,0 +1,30 @@
+.education h2{
+  text-align: center;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.education {
+  padding: 2rem;
+}
+
+/* h2 {
+  text-align: center;
+  color: #333;
+} */
+
+.VerticalTimelineElement-content {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+}
+
+.education h4 {
+  color: #333;
+}
+
+.education p {
+  color: #777;
+}
